@@ -32,6 +32,7 @@ A few practical notes:
 - Test each quarter separately. Infection is often quarter-specific.
 - High CMT readings should be followed up with a milk culture to identify the bacteria involved.
 - CMT is a screening tool, not a diagnosis. A veterinary diagnosis and culture are needed before starting most treatments.
+- **Milk pH is a clue, not a mastitis test.** High pH milk (around 6.8–7.05 or higher) can cause slow pH drops during cheese making and poor coagulation, but it does not prove mastitis. Causes of elevated pH and high somatic cell counts include mastitis, stress, udder injury, stale milk from incomplete milking, and late lactation. For cheesemakers, a lab somatic cell count (SCC) is generally more useful than pH alone or even a negative culture. See the discussion at CheeseForum.org: [High pH and poor coagulation but negative on mastitis test!](https://cheeseforum.org/index.php?topic=19247.0).
 
 Common mastitis-causing bacteria include:
 
