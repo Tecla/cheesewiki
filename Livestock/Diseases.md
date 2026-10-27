@@ -357,7 +357,7 @@ Enterotoxemia is a sudden, often fatal disease caused by toxins produced by *Clo
 - Prevention: gradual introduction of grain and lush pasture, good-quality forage, vaccination of dams and offspring, and avoiding overfeeding milk or grain to young stock.
 - Treatment: often unsuccessful once signs appear. A veterinarian may administer antitoxin, antibiotics, anti-inflammatories, and supportive fluids. Prevention is far more effective than treatment.
 
-# Prevention
+## Prevention
 
 Most livestock diseases respond better to prevention than to treatment. The patterns that show up across mastitis, influenza, parasites, and metabolic disease are the same: healthy animals on well-managed land are far less likely to get sick, and far more likely to recover quickly when they do.
 
