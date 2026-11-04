@@ -1,6 +1,6 @@
 ---
 title: A Caution About Internet Recipes
-description: Not everything your read on the internet is true
+description: Not everything you read on the internet is true
 published: true
 date: 2026-08-18T17:31:56.011Z
 tags: warning
@@ -18,7 +18,7 @@ As in making [mozzarella first](https://farnyfarm.substack.com/p/stop-making-moz
 
 This is exactly the genesis of all of the beginner recipes on the internet about making cheese, and they're all basically variations on paneer.
 
-A simple perusal of posts on the [Cheese Forum](https://cheeseforum.org/) will yield a quick conclusion that cheese making is anything but simple, but that this complexity is part of the fun. There is nothing wrong at all with starting at square one, and doing a cooked lactic cheese for the first baby step into the world of cheese making. In fact, that's a very sensible starting strategy. It's important to realize that there is much more to it, and many of the recipes on the internet are missing vast amounts of nuance, or they are claiming to make a particular kind of cheese when their recipe doesn't resemble the real thing *at all*. There are many “cheddar” recipes that are not cheddar in any discernible way when compared with other cheese recipes. Many leave out any discussion of acidity which will make or break a cheese, or other important factors that differentiate a given cheese style from others. 
+A simple perusal of posts on the [Cheese Forum](https://cheeseforum.org/) will yield a quick conclusion that cheese making is anything but simple, but that this complexity is part of the fun. There is nothing wrong at all with starting at square one, and making a cooked lactic cheese for the first baby step into the world of cheese making. In fact, that's a very sensible starting strategy. It's important to realize that there is much more to it, and many of the recipes on the internet are missing vast amounts of nuance, or they are claiming to make a particular kind of cheese when their recipe doesn't resemble the real thing *at all*. There are many “cheddar” recipes that are not cheddar in any discernible way when compared with other cheese recipes. Many leave out any discussion of acidity which will make or break a cheese, or other important factors that differentiate a given cheese style from others.
 
 A particularly problematic issue is when a recipe advocates using cultures such as kefir, whey culture or other non-commercial culture sources without an understanding of how to properly generate or manage them. Worse, some advocate using no culture at all in a situation where that would invite incredible amounts of risk to the consumer of any cheese produced. Using anything other than DVI cultures should be considered an advanced technique. It can be done, and can be quite rewarding, but it shouldn't be the first thing a brand-new cheese maker does unless they are under the direct tutelage of an experienced cheese maker.
 

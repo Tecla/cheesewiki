@@ -1,6 +1,6 @@
 ---
 title: Milking, Cleanliness and Storage
-description: 
+description: Hand and machine milking, keeping the milk clean, and storing it properly, with guidance on pathogens and bacterial counts.
 published: true
 date: 2026-08-18T17:37:13.111Z
 tags: milk, raw milk, pasteurization, pasteurized, clean, sanitize, sanitization, pathogens
@@ -18,17 +18,17 @@ Many dairies will milk their animals twice per day (and bottle feed the calves/k
 
 For commercial dairies, calf sharing techniques are often not very practical, so the young are bottle fed, and the lactating mothers are machine milked twice per day.
 
-Milking occurs in a milking parlor, although that can take on many different forms, especially for a family with few dairy animals (it may be as simple as a head gate installed in a run-in shed). Typically the animal is led into a head gate with some feed it likes, the head gate closed, the farmer cleans the udder, and either hand-milks the animal with a bucket underneath or hooks up the teats of the udder to a milking machine until the process is complete. Most farmers will use teat-dip on the teats to help avoid mastitis while the teat orifices close up over the next 15 minutes or so and release the animal.
+Milking occurs in a milking parlor, although that can take on many different forms, especially for a family with few dairy animals (it may be as simple as a head gate installed in a run-in shed). Typically the animal is led into a head gate with some feed it likes, the head gate closed, the farmer cleans the udder, and either hand-milks the animal with a bucket underneath or hooks teat cups up to the teats of the udder until the process is complete. Most farmers will use a teat dip on the teats to help avoid mastitis while the teat orifices close up over the next 15 minutes or so, and then release the animal.
 
 Note that milk should pass through a filter every time it is collected. Dedicated filters exist for many milking machines or milk buckets, and are usually single-use. Inevitably a tiny bit of hair or dirt will make its way towards the milk bucket or tank, and the filter will collect these and minimize the likelihood of contamination of the collected milk.
 
 ## Manual Milking
 
-Manual milking (hand milking) is specifically done by curving the fingers, placing the teat in the curve of the fingers with the thumb at the base of the teat touching the udder. The thumb and index finger then squeeze the top of the teat by the udder strongly enough to keep milk from flowing from the teat back into the udder, and the fingers then all close around the teat from the top down to the bottom where the orifice is so the milk in the teat flows out. The grip is relaxed so milk can flow down from the udder back into the teat, and the process is repeated until the vast majority of the milk as exited that half or quarter of the udder.
+Manual milking (hand milking) is specifically done by curving the fingers, placing the teat in the curve of the fingers with the thumb at the base of the teat touching the udder. The thumb and index finger then squeeze the top of the teat by the udder strongly enough to keep milk from flowing from the teat back into the udder, and the fingers then all close around the teat from the top down to the bottom where the orifice is so the milk in the teat flows out. The grip is relaxed so milk can flow down from the udder back into the teat, and the process is repeated until the vast majority of the milk has exited that half or quarter of the udder.
 
 Given two hands, two teats can be milked at a time. For cows, the front quarters should be milked first, and then the back quarters milked.
 
-Kathy McCune at Family Farm Livestock gives a good overview of a full manual milking session [here](https://familyfarmlivestock.com/how-to-hand-milk-a-cow/) and in [this video](https://www.youtube.com/watch?v=QPZxLf7kRIg): 
+Kathy McCune at Family Farm Livestock gives a good overview of a full manual milking session [here](https://familyfarmlivestock.com/how-to-hand-milk-a-cow/) and in [this video](https://www.youtube.com/watch?v=QPZxLf7kRIg):
 
 ## Machine Milking
 
@@ -45,7 +45,7 @@ It's important to have the right size of cups and inflations for the particular 
 There are many machine milker systems available, but a few examples of milking systems for small dairies or families are, in no particular order:
 
 -   [Simple Pulse](https://simplepulse.com/)
--   [Mitty Dairy Supply](https://mittysupply.com/machines/)
+-   [Mitty Dairy Supply](https://mittysupply.com/)
 -   [Affordable Milkers](https://www.affordablemilkers.com/)
 
 ![](/109381969_8a32f21623-2353041355.jpg)
@@ -89,9 +89,9 @@ Milk collection equipment needs to be flushed of any milk or anything else with 
 
 Note that when flushing equipment, colder water should be used first, because if hot water is used right away then minerals from the milk will precipitate out and try to bond to surfaces and form what is called *milk stone*. Usually after a cold water rinse, warm or hot water can be used to help melt and flush any milk fat.
 
-Everything must go through this process: milk pails, cups, inflations, tubes, valves, and so on, essentially everything the milk could touch on its way to the jar or the bottle or the tank. Pay particular attention to your equipment to make sure no tubes are kinked, no valves are difficult to clean properly, and so on. It's the difficult turns and corners in a milk pipeline that produce stagnant pools or eddies that allow milk to not fully flow along that can result in a pathogen taking up residence and surviving to reproduce enough to cause a problem.
+Everything must go through this process: milk pails, cups, inflations, tubes, valves, and so on, essentially everything the milk could touch on its way to the jar or the bottle or the tank. Pay particular attention to your equipment to make sure no tubes are kinked, no valves are difficult to clean properly, and so on. It's the difficult turns and corners in a milk pipeline that produce stagnant pools or eddies that keep milk from flowing fully, which can result in a pathogen taking up residence and surviving to reproduce enough to cause a problem.
 
-Unless the milk is going directly into the cheese making vat (which you surely cleaned and sanitized as well), it needs to go into a clean and sanitized holding tank. These tanks should have the capability to cool the milk to refrigeration temperatures as quickly as possible. They usually have built-in agitators (stirrers) to keep the milk moving and evenly cooling, and it's important to get the milk to less than 40 F within a couple of hours or so of collection. Cooling issues are a notable cause of pathogenic outbreaks, so keep your cooling equipment inspected, and try to have it set up where you can monitor it or get notified if the temperature doesn't get to where it needs to be and stay there. USDA grade A milk rules require using approved tanks, temperature recorders and milk collection equipment in part to help ensure that these goals are all met consistently with every batch of milk.
+Unless the milk is going directly into the cheese making vat (which you surely cleaned and sanitized as well), it needs to go into a clean and sanitized holding tank. These tanks should have the capability to cool the milk to refrigeration temperatures as quickly as possible. They usually have built-in agitators (stirrers) to keep the milk moving and evenly cooling, and it's important to get the milk to less than 40 F within a couple of hours or so of collection. Cooling issues are a notable cause of pathogenic outbreaks, so keep your cooling equipment inspected, and try to have it set up where you can monitor it or get notified if the temperature doesn't get to where it needs to be and stay there. USDA Grade A milk rules require using approved tanks, temperature recorders and milk collection equipment in part to help ensure that these goals are all met consistently with every batch of milk.
 
 ## Additional Recommendations
 
@@ -99,45 +99,45 @@ In addition to the standard milk collection and cleanliness practices above, the
 
 Pay special attention to the health of your dairy animals; find a reason to have someone observe them and be near them at least once a day if possible (again, management intensive grazing is a method that helps to encourage this type of habit), as health issues caught early will be much more solvable, and the likelihood of pathogen loads increasing will be reduced.
 
-Clean holding pens, barns, stalls, trailers and so on as much as is feasible, and watch for problems in the winter when increased moisture turns areas into bogs, or animals congregate heavily around waterers, feeders, and shade areas. Distributing the animals' effects more evenly over their grazing, feeding, watering and loafing areas is a good goal to have, although practical constraints mean that in practice this will never be perfect.
+Clean holding pens, barns, stalls, trailers and so on as much as is feasible, and watch for problems in the winter when increased moisture turns areas into bogs, or animals congregate heavily around waterers, feeders, and shade areas. Distributing the animals' manure more evenly over their grazing, feeding, watering and loafing areas is a good goal to have, although practical constraints mean that in practice this will never be perfect.
 
 ## Typical Pathogen Contamination
 
 There are only a handful of pathogenic bacteria that tend to get a foothold in milk and cheese.
 
--   E. coli 0157:H7, the pathogenic strain. Can be very dangerous, even resulting in hospitalization or death if consumed in quantity.
--   Campylobacter Jejuni. This is reasonably likely in dirty conditions to get a foothold in raw milk. This pathogen is a leading cause of “stomach flu” and food poisoning, is present in many raw foods, and is a common ailment for people who eat undercooked meat. It is very rarely fatal, but it can result in hospitalization due to dehydration.
+-   E. coli O157:H7, the pathogenic strain. Can be very dangerous, even resulting in hospitalization or death if consumed in quantity.
+-   Campylobacter jejuni. This is reasonably likely in dirty conditions to get a foothold in raw milk. This pathogen is a leading cause of “stomach flu” and food poisoning, is present in many raw foods, and is a common ailment for people who eat undercooked meat. It is very rarely fatal, but it can result in hospitalization due to dehydration.
 -   Salmonella. Not common in milk and cheese, but can occur.
 -   Listeria. Not common in milk and cheese, but can occur.
--   Staphylococcus Aureus and Staphylococcus Enterotoxin. Not common in milk and cheese, but can occur.
+-   Staphylococcus aureus and Staphylococcus enterotoxin. Not common in milk and cheese, but can occur.
 
 ### Botulism and Its Butyric Cousins
 
-Note which pathogen is *not listed: botulism (Clostridia Botulina).* A clearly documented case of botulism from milk or cheese alone has not been forthcoming. A vector for botulism could be untoasted/non-dried herbs or spices added to cheese, so extra care should be taken when incorporating additional non-cheese ingredients into a cheese make.
+Note which pathogen is *not* listed: botulism (*Clostridium botulinum*). A clearly documented case of botulism from milk or cheese alone has not been forthcoming. A vector for botulism could be untoasted/non-dried herbs or spices added to cheese, so extra care should be taken when incorporating additional non-cheese ingredients into a cheese make.
 
-Two cousins of the botulism pathogen do, however, make it into cheese pretty regularly: Clostridia Butyrica and Clostridia Tyrobutirica. Neither of these are pathogenic in a practical sense, but they are gas producers that cause *late blowing* of a cheese with horizontal fissures and irregular eyes / gas pockets inside the cheese body. They produce butyric acid, literally the vomit taste, so cheeses that suffer from late blowing are not palatable for human beings. They can be eaten by livestock and chickens, however, generally without issue (and will be, as they say, the most expensive chicken feed ever).
+Two cousins of the botulism pathogen do, however, make it into cheese pretty regularly: Clostridium butyricum and Clostridium tyrobutyricum. Neither of these are pathogenic in a practical sense, but they are gas producers that cause *late blowing* of a cheese with horizontal fissures and irregular eyes / gas pockets inside the cheese body. They produce butyric acid, literally the vomit taste, so cheeses that suffer from late blowing are not palatable for human beings. They can be eaten by livestock and chickens, however, generally without issue (and will be, as they say, the most expensive chicken feed ever).
 
-The clostridia family of bacteria are *thermoduric*, so when temperatures rise to pasteurization levels they will cocoon up into a toughened form and try to ride out the inhospitable conditions. Even pasteurized milk can thus easily carry clostridia spores, especially if the cows were eating silage or haylage that was not properly managed (which is common). When conditions become favorable again where temperatures drop and the acidity (pH) is not too harsh for them, they sporulate back into vegetative form and begin reproducing, hence the late blowing of the cheese as they ramp up their action after a week or so at cave temperatures in a cheese.
+The clostridia family of bacteria are *thermoduric*, so when temperatures rise to pasteurization levels they will cocoon up into a toughened form and try to ride out the inhospitable conditions. Even pasteurized milk can thus easily carry clostridia spores, especially if the cows were eating silage or haylage that was not properly managed (which is common). When conditions become favorable again where temperatures drop and the acidity (pH) is not too harsh for them, they sporulate back into vegetative form and begin reproducing, hence the late blowing of the cheese as they ramp up their action after a week or so at cave temperatures in the cheese.
 
 Clostridia bacteria can only be fully killed by elevating temperatures to 250 F or higher for several minutes. This is the process for UHT pasteurization of milk, which makes it shelf stable. This is also the reason that water-bath canning cannot be used for certain non-acidic foods. Boiling temperatures are not enough to kill clostridia (and thus botulism) spores, so if the pH inside the jar is not low enough, when the temperature goes back down the botulism bacteria will wreak havoc and lace the food with its deadly toxin. Pressure canning must be used in those cases to raise the temperature high enough to finally kill all clostridia spores to make it safe.
 
-Taking temperatures that high is not an option for cheese, and using UHT milk is not an option because it will fail to form a curd, so other methods must be used to control clostridia spores: proper acidity, proper feed for the dairy animals, clean milk collection, and in Europe some small amounts of sodium nitrate and sodium nitrite can be added to the milk which is highly effective at stopping clostridia bacteria. In the USA, nitrates and nitrites are not approved as an additive to cheese, although the safety of using them has been well established in Europe, and it is used fairly regularly on washed-curd cheeses such as Gouda which have a higher pH and are otherwise susceptible to late blowing from the butyric bacteria.
+Taking temperatures that high is not an option for cheese, and using UHT milk is not an option because it will fail to form a curd, so other methods must be used to control clostridia spores: proper acidity, proper feed for the dairy animals, clean milk collection, and in Europe some small amounts of sodium nitrate and sodium nitrite can be added to the milk, which is highly effective at stopping clostridia bacteria. In the USA, nitrates and nitrites are not approved as an additive to cheese, although the safety of using them has been well established in Europe, and it is used fairly regularly on washed-curd cheeses such as Gouda which have a higher pH and are otherwise susceptible to late blowing from the butyric bacteria.
 
 # Evaluating Safety
 
 ## Bacterial Counts
 
-To get definitive knowledge about the the safety of a given batch of milk, lab tests should be performed to determine the plate counts of various types of bacteria. There are 6 more or less standard lab tests that can be done on raw milk to get an idea of its safety. These are usually expressed as cfu/ml (colony-forming units per mililiter of milk):
+To get definitive knowledge about the safety of a given batch of milk, lab tests should be performed to determine the plate counts of various types of bacteria. There are 6 more or less standard lab tests that can be done on raw milk to get an idea of its safety. These are usually expressed as cfu/ml (colony-forming units per milliliter of milk):
 
 -   SPC (standard plate count), or total count of aerobic (oxygen-consuming) bacteria.
 -   PIC (preliminary incubation count), where the milk is brought to 55 F and then an SPC is performed. Bacteria that thrive at this temperature are generally *psychotrophic* which will still grow at refrigerator temperatures. They are generally not pathogenic, but they produce off tastes and degrade the quality of the milk.
 -   LPC (laboratory pasteurization count), where the milk is pasteurized using LTLT (low-temperature, long-time) pasteurization, held at 145 F for 30 minutes, and then an SPC is performed. Surviving bacteria in this test are *thermoduric*, of which the clostridia family are a part, which can cause late blowing in cheese.
 -   Coliform count. This checks for the presence of any coliforms, of which the pathogenic version of E. coli is a member. Most coliforms are not pathogenic, even most E. coli bacteria are not except a specific strain, but coliforms can cause early blowing in cheese and should all be treated as a hard stop if the milk is contaminated with them.
 -   SCC (somatic cell count), an indicator of white blood cells and other animal cells. This can indicate mastitis (udder infections) or other udder health issues. These levels can be elevated at certain stages of animal lactation. Also, some ruminants (e.g. goats) shed cells into the milk as part of how they produce it, so they tend to have much higher SCCs naturally and it's not a problem. For cows and sheep lower counts are ideal.
--   MUN (milk urea nitrogen), an indicator of the amount of extra protein. If levels are high, it can affect cheese produced with the milk, but it more indicates waste and high ammonia production in their urine.
+-   MUN (milk urea nitrogen), an indicator of the amount of extra protein. If levels are high, it can affect cheese produced with the milk, but it more likely indicates waste and high ammonia production in their urine.
 
 Here are the limits and goals for each test, given per ml of milk (courtesy of Dairy Practices Council and Gianaclis Caldwell). They are for raw milk, unless stated otherwise.  
- 
+
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -154,9 +154,9 @@ Additional lab tests may be performed for the following pathogens to establish t
 
 -   Salmonella, while there is no regulatory limit, ideally this count should be **zero**.
 -   Listeria, while there is no regulatory limit, ideally this count should be **zero**.
--   Campylobacter Jeijuni, while there is no regulatory limit, ideally this count should be **zero**.
--   E. coli 0157:H7 (the pathogenic strain of E. coli), this ideally should be less than 10 cfu/ml, definitely under 100 cfu/ml, but for raw milk intended for pasteurization there is no regulatory limit (it is assumed that the E. coli will be killed during pasteurization, yielding it back to less than 10 cfu/ml).
--   Staphylococcus Aureus, , this ideally should be less than 10 cfu/ml, definitely under 100 cfu/ml, but for raw milk intended for pasteurization there is no regulatory limit (it is assumed that the E. coli will be killed during pasteurization, yielding it back to less than 10 cfu/ml).
+-   Campylobacter jejuni, while there is no regulatory limit, ideally this count should be **zero**.
+-   E. coli O157:H7 (the pathogenic strain of E. coli), this ideally should be less than 10 cfu/ml, definitely under 100 cfu/ml, but for raw milk intended for pasteurization there is no regulatory limit (it is assumed that the E. coli will be killed during pasteurization, yielding it back to less than 10 cfu/ml).
+-   Staphylococcus aureus, this ideally should be less than 10 cfu/ml, definitely under 100 cfu/ml, but for raw milk intended for pasteurization there is no regulatory limit (it is assumed that the S. aureus will be killed during pasteurization, yielding it back to less than 10 cfu/ml).
 -   Staphylococcus Enterotoxin, while there is no regulatory limit, ideally this count should be **zero**.
 
 ### Mastitis
@@ -166,7 +166,7 @@ For mastitis tests, please see the article on [livestock diseases](/Livestock/Di
 ### Potential Causes of Failed Tests
 
 High counts in raw milk are often indicative of particular cleanliness or sanitation issues, or conditions in which the dairy animals live or the feed they eat. The following table (courtesy of Richard Wallace of the University of Illinois Extension, and Gianaclis Caldwell) indicates where you should start looking if a count is higher than desired:  
- 
+
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
@@ -182,6 +182,6 @@ There are other vectors of contamination and cleanliness issues. In the next sec
 
 ## Visual Milk Tests
 
-An excellent guide for being able to visually see the quality of your milk are to perform the tests recommended by Peter Dixon of Dairy Foods Consulting. His website as of this writing is offline, but this guide is reproduced here. It covers two major sources of contamination, their vectors, and how to evaluate the milk to know if it is clean and good for cheese making.
+An excellent guide for visually assessing the quality of your milk is the set of tests recommended by Peter Dixon of Dairy Foods Consulting. His website as of this writing is offline, but this guide is reproduced here. It covers two major sources of contamination, their vectors, and how to evaluate the milk to know if it is clean and good for cheese making.
 
-[/milk\_and\_cheese\_tests.pdf](/milk_and_cheese_tests.pdf)
+[milk and cheese tests.pdf](/milk_and_cheese_tests.pdf)

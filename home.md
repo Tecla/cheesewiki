@@ -3,7 +3,7 @@ title: Home
 description: A wiki for cheese makers
 published: true
 date: 2026-08-18T17:38:48.467Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2025-12-18T02:20:18.014Z
 ---
@@ -36,9 +36,9 @@ Sheep
 
 [Collection and Storage](/Milk/Clean-Milking)
 
-[Cleanliness](https://cheesewiki.pointvfx.com/en/Milk/Clean-Milking#keeping-it-clean)
+[Cleanliness](/Milk/Clean-Milking#keeping-it-clean)
 
-[Safety and Pathogens](https://cheesewiki.pointvfx.com/en/Milk/Clean-Milking#evaluating-safety)
+[Safety and Pathogens](/Milk/Clean-Milking#evaluating-safety)
 
 [Raw Milk](/Milk/Raw-Milk)
 
@@ -74,13 +74,13 @@ Sheep
 
 Lactic cheeses are characterized by curds formed using only lactic acid, with little to no rennet used to assist in curd formation. If a small amount of rennet is used, it is usually termed a semi-lactic cheese.
 
-[Sour Cream](/Creamery/Sour-Cream) - An almost cheese
+Sour Cream - An almost cheese
 
-[Yogurt, Clabber and Kefir Cheeses](/Cheese/Lactic/Yogurt-Cheeses)
+Yogurt, Clabber and Kefir Cheeses
 
-[Cream Cheeses](/Cheese/Lactic/Cream-Cheeses)
+Cream Cheeses
 
-[Chevre](/Cheese/Lactic/Chevre)
+Chevre
 
 ## Rennet Cheese
 
@@ -90,27 +90,27 @@ Rennet cheeses are characterized by curds formed using rennet enzymes or their a
 
 [How Rennet Works](/Cheese/Rennet/Rennet)
 
-[Curd Readiness](https://cheesewiki.pointvfx.com/Cheese/Rennet/Rennet#curd-readiness)
+[Curd Readiness](/Cheese/Rennet/Rennet#curd-readiness)
 
-[Types of Rennet](https://cheesewiki.pointvfx.com/en/Cheese/Rennet/Rennet#types-of-rennet)
+[Types of Rennet](/Cheese/Rennet/Rennet#types-of-rennet)
 
 ### Curds
 
 [Acidity](/Cheese/Acidity)
 
-[Drying](/Cheese/Drying-Curds) - Cutting, stirring, heating, evaluating doneness
+Drying - Cutting, stirring, heating, evaluating doneness
 
-[Washing](/Cheese/Washing-Curds)
+Washing
 
 ### Aging Preparation
 
-[Draining](/Cheese/Draining-Curds)
+Draining
 
-[Pressing](/Cheese/Pressing)
+Pressing
 
-[Salting and Brining](/Cheese/Salting)
+Salting and Brining
 
-[Drying and Yeasting](/Cheese/Drying)
+Drying and Yeasting
 
 ### Semi-Soft and Fresh Cheeses
 
@@ -180,9 +180,9 @@ Parmesan Style
 
 Romano
 
-## Whey And Heated Cheese
+## Whey and Heated Cheese
 
-Whey and heated cheese are formed usually from leftover whey from making another cheese, but can be made directly from milk as well. They are typically made by heating to around 185 F (85 C) and have an acid added to precipitate curds out of the whey or milk. The acid can be vinegar, lemon juice, citric acid, tartaric acid, etc. The 'osts cheeses are made without added acid, and are cooked until almost all of the water is gone, and what's left is sweet, cheesy, carmel-like whey and milk solids in spreadable form.
+Whey and heated cheese are formed usually from leftover whey from making another cheese, but can be made directly from milk as well. They are typically made by heating to around 185 F (85 C) and have an acid added to precipitate curds out of the whey or milk. The acid can be vinegar, lemon juice, citric acid, tartaric acid, etc. The 'ost cheeses are made without added acid, and are cooked until almost all of the water is gone, and what's left is sweet, cheesy, caramel-like whey and milk solids in spreadable form.
 
 Nordic 'osts
 
@@ -196,21 +196,21 @@ Troubleshooting
 
 ### Natural Rinds
 
-[Environments for Natural Rinds](/Cheese/Aging/Natural-Rinds)
+Environments for Natural Rinds
 
-[Brushed Rinds](/Cheese/Aging/Brushed-Rinds)
+Brushed Rinds
 
-[Washed Rinds](/Cheese/Aging/Washed-Rinds)
+Washed Rinds
 
-[Rubbed And Oiled Rinds](/Cheese/Aging/Rubbed-Rinds)
+[Rubbed and Oiled Rinds](/Cheese/Aging/Rubbed-Rinds)
 
-[Troubleshooting](/Cheese/Aging/Natural-Rind-Troubleshooting)
+Troubleshooting
 
 ### Rindless Cheeses
 
-[When and How to Make Rindless Cheeses](/Cheese/Aging/Rindless-Cheese)
+When and How to Make Rindless Cheeses
 
-[Troubleshooting](/Cheese/Aging/Rindless-Cheese-Troubleshooting)
+Troubleshooting
 
 # Cultures, Molds, Ingredients
 
@@ -230,17 +230,17 @@ Dosing
 
 [Culturing from Whey](/Cheese/Whey-Culturing)
 
-[Culturing from Clabber](https://cheesewiki.pointvfx.com/Creamery/Clabber#culturing-cheese-and-yogurt)
+[Culturing from Clabber](/Creamery/Clabber#culturing-cheese-and-yogurt)
 
-[Other Natural Cultures](/Creamery/Alternative-Natural-Cultures)
+Other Natural Cultures
 
 ## Yeasts and Molds
 
-Penicillin Candidum
+Penicillium candidum
 
-Penicillin Roqueforti (Blue)
+Penicillium roqueforti (blue)
 
-Geotrichum Candidum
+Geotrichum candidum
 
 Mycodore, Mucor and Cats Hair
 

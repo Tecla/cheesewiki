@@ -1,6 +1,6 @@
 ---
 title: Calcium Chloride
-description: 
+description: When and why to use calcium chloride in cheese making, and how to mix your own 32 percent solution.
 published: true
 date: 2026-08-18T17:34:11.649Z
 tags: calcium chloride, rennet, salting, brine
@@ -10,7 +10,7 @@ dateCreated: 2026-02-12T07:01:43.316Z
 
 # Calcium Chloride
 
-Calcium chloride (CaCl) is a salt used for cheese making in two parts of the process: renneting, and salt brining. The standard is to use a 32% solution of calcium chloride dissolved in pure water, and when cheese making recipes call for the use of it that is what they expect.
+Calcium chloride (CaCl₂) is a salt used for cheese making in two parts of the process: renneting, and salt brining. The standard is to use a 32% solution of calcium chloride dissolved in pure water, and when cheese making recipes call for the use of it that is what they expect.
 
 ## Curd Formation
 

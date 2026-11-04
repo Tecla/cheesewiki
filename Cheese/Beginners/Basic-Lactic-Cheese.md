@@ -1,6 +1,6 @@
 ---
 title: Making a Lactic Cheese
-description: 
+description: A step-by-step guide to making a simple lactic cheese, from warming the milk and adding cultures through draining, salting and herbing.
 published: true
 date: 2026-08-18T17:32:43.526Z
 tags: cheese, cultures, draining, salting, herbs, lactic
@@ -35,11 +35,11 @@ A lactic cheese is generally not a lot of effort to make. The first step is an h
     2.  Add to the milk and stir it in for a minute or so using primarily up-and-down motions. Still the milk and make sure it sits quietly without being disturbed.
 4.  **Let the curd form and acidify.** This usually takes at least 12 hours, sometimes longer.
     -   Check for readiness, usually by seeing the curd begin to pull away from the sides of the pot or vat slightly (whey filling the gap), or whey beginning to pool on top and eventually cover the whole surface of the curd in a thin layer of whey.
-5.  **Scoop the curds out.** Some lactic cheese are place into molds/forms to drain, others are ladled into cheese cloths (the tighter weave versions of cheese cloth) and hung above a bowl or pot to drain their whey.
+5.  **Scoop the curds out.** Some lactic cheeses are placed into molds/forms to drain, others are ladled into cheesecloths (the tighter weave versions of cheesecloth) and hung above a bowl or pot to drain their whey.
 6.  **Drain the curds**, occasionally stirring them inside the cheese cloth if you are using those, or by flipping the cheese in the forms if you are using those instead for draining. This can take anywhere from a few hours to a day or more, depending on the cheese recipe.
-7.  **Salt the curds.** If you want, and the recipe calls for it, you can salt the curds or the formed cheese. If it's in a cheese cloth, you can stir the salt in. This will often encourage more whey to drain out, so you may need to let it drain an additional hour or two after salting. Recommended is to use no more salt than about 2% of the weight of the cheese, often times lactic cheeses use less than that if any at all.
-8.  **Add herbs** if you wish. Formed cheeses you can just roll them on or press them in, and for cheese-cloth-hung cheeses you can stir them in.
-9.  Refrigerate the cheese, it should last a week or two, sometimes longer if you added enough salt.
+7.  **Salt the curds.** If you want, and the recipe calls for it, you can salt the curds or the formed cheese. If it's in a cheese cloth, you can stir the salt in. This will often encourage more whey to drain out, so you may need to let it drain an additional hour or two after salting. Recommended is to use no more salt than about 2% of the weight of the cheese, often, lactic cheeses use less than that if any at all.
+8.  **Add herbs** if you wish. Formed cheeses you can just roll them on or press them in, and for cheesecloth-hung cheeses you can stir them in.
+9.  **Refrigerate the cheese.** It should last a week or two, sometimes longer if you added enough salt.
 
 ## Caveats
 

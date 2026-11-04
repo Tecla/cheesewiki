@@ -1,6 +1,6 @@
 ---
 title: Livestock Diseases
-description: 
+description: Mastitis, prion diseases, influenza, parasites and other diseases affecting dairy animals, with treatments and prevention.
 published: true
 date: 2026-08-18T17:30:27.957Z
 tags: livestock, mastitis
@@ -14,7 +14,7 @@ dateCreated: 2026-01-01T04:39:20.169Z
 
 Mastitis is inflammation of the mammary gland, usually caused by bacterial infection entering through the teat canal. It is one of the most common problems in dairy animals, affecting cows, goats, and sheep. For cheesemakers, the concern is not only the animal's welfare: mastitic milk has a higher somatic cell count that reduces cheese yield, alters curd formation, and affects flavor.
 
-### Identifying Mastitis, and the California Mastitis Test
+### Identifying Mastitis and the California Mastitis Test
 
 Mastitis can be obvious (**clinical**) or hidden (**subclinical**). Clinical cases show visible signs:
 
@@ -25,7 +25,7 @@ Mastitis can be obvious (**clinical**) or hidden (**subclinical**). Clinical cas
 
 Subclinical mastitis is far more common and produces milk that looks normal, but the animal is infected and shedding bacteria. This is where regular testing becomes important.
 
-The **California Mastitis Test (CMT)** is a simple, inexpensive cow-side screen. It works by mixing a small amount of milk from each quarter with a reagent that causes somatic cells to clump and thicken. The thicker the mixture, the higher the somatic cell count and the more likely infection is present. A good visual guide and procedure can be found from [University of Minnesota Extension](https://extension.umn.edu/dairy-health-and-management/california-mastitis-test).
+The **California Mastitis Test (CMT)** is a simple, inexpensive cow-side screen. It works by mixing a small amount of milk from each quarter with a reagent that causes somatic cells to clump and thicken. The thicker the mixture, the higher the somatic cell count and the more likely infection is present. A good visual guide and procedure can be found in the [California mastitis test](https://en.wikipedia.org/wiki/California_mastitis_test) article on Wikipedia.
 
 A few practical notes:
 
@@ -86,7 +86,7 @@ Influenza viruses are a family of respiratory pathogens that primarily infect bi
 
 **Avian influenza** (bird flu, including highly pathogenic strains such as H5N1 and H7N9) mainly affects poultry, but some strains have been found in or around cattle, goats, pigs, and other mammals. In dairy animals, influenza is usually a concern because a farm-wide outbreak disrupts milk production and may spread between species, not because it is a routine cattle disease.
 
-**Swine influenza** affects pigs and is common in commercial and backyard hog operations. It causes coughing, fever, reduced appetite, and poor growth. Pigs can act as "mixing vessels" for influenza viruses, so farms with both pigs and poultry should be especially careful.
+**Swine influenza** affects pigs and is common in commercial and backyard hog operations. It causes coughing, fever, reduced appetite, and poor growth. Pigs can act as “mixing vessels” for influenza viruses, so farms with both pigs and poultry should be especially careful.
 
 **Influenza D virus** has been identified in cattle and swine and is associated with mild respiratory disease. It does not appear to infect humans, but it can contribute to bovine respiratory disease complexes, especially when animals are stressed.
 
@@ -294,7 +294,7 @@ When ruminants eat too much starch and not enough fiber, the rumen becomes too a
 
 ### Johne's Disease
 
-Johne's (pronounced "Yo-nees") is a chronic, contagious bacterial infection of the intestinal tract caused by *Mycobacterium avium* subspecies *paratuberculosis*. It causes progressive weight loss and diarrhea despite a normal appetite, usually in animals two years or older.
+Johne's (pronounced “Yo-nees”) is a chronic, contagious bacterial infection of the intestinal tract caused by *Mycobacterium avium* subspecies *paratuberculosis*. It causes progressive weight loss and diarrhea despite a normal appetite, usually in animals two years or older.
 
 Johne's is difficult to control on a dairy farm because there is no reliable cure, and it spreads through manure-contaminated feed, water, and colostrum. It is a major reason to buy animals from tested herds and to keep young stock away from adult manure.
 

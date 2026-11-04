@@ -1,6 +1,6 @@
 ---
 title: Books
-description: 
+description: A reading list on cheese making, creamery work, livestock and fermentation, with links for buying each title.
 published: true
 date: 2026-08-18T17:38:05.164Z
 tags: learning, books
@@ -20,19 +20,19 @@ Mastering Artisan Cheesemaking: The Ultimate Guide for Home-Scale and Market Pro
 Mastering Basic Cheesemaking: The Fun and Fundamentals of Making Cheese at Home
 
 -   [https://www.amazon.com/Mastering-Basic-Cheesemaking-Fundamentals-Making/dp/0865718180](https://www.amazon.com/Mastering-Basic-Cheesemaking-Fundamentals-Making/dp/0865718180)
--   [https://cheesemaking.com/products/mastering-basic-cheesemaking](tps://cheesemaking.com/products/mastering-basic-cheesemaking)
+-   [https://cheesemaking.com/products/mastering-basic-cheesemaking](https://cheesemaking.com/products/mastering-basic-cheesemaking)
 
 The Small Scale Cheese Business: The Complete Guide to Running a Successful Farmstead Creamery
 
 -   [https://cheesemaking.com/products/the-small-scale-cheese-business](https://cheesemaking.com/products/the-small-scale-cheese-business)
 -   [https://hambydairysupply.com/the-small-scale-cheese-business-the-complete-guide-to-running-a-successful-farmstead-creamery/](https://hambydairysupply.com/the-small-scale-cheese-business-the-complete-guide-to-running-a-successful-farmstead-creamery/)
--   [https://www.amazon.com/Small-Scale-Cheese-Business-Successful-Farmstead/dp/1603585494](ttps://www.amazon.com/Small-Scale-Cheese-Business-Successful-Farmstead/dp/1603585494)
+-   [https://www.amazon.com/Small-Scale-Cheese-Business-Successful-Farmstead/dp/1603585494](https://www.amazon.com/Small-Scale-Cheese-Business-Successful-Farmstead/dp/1603585494)
 
 ## Frank Kosikowski
 
 Cheese and Fermented Milk Foods
 
--   [https://cheesemaking.com/products/cheese-and-fermented-milk-foods](ttps://cheesemaking.com/products/cheese-and-fermented-milk-foods)
+-   [https://cheesemaking.com/products/cheese-and-fermented-milk-foods](https://cheesemaking.com/products/cheese-and-fermented-milk-foods)
 
 ## Ricki Carroll
 
@@ -45,7 +45,7 @@ Home Cheese Making, 4th Edition: From Fresh and Soft to Firm, Blue, Goat’s Mil
 
 The Art of Natural Cheesemaking: Using Traditional, Non-Industrial Methods and Raw Ingredients to Make the World's Best Cheeses
 
--   [https://www.amazon.com/dp/1603585788](ttps://www.amazon.com/dp/1603585788)
+-   [https://www.amazon.com/dp/1603585788](https://www.amazon.com/dp/1603585788)
 
 Milk Into Cheese: The Foundations of Natural Cheesemaking Using Traditional Concepts, Tools, and Techniques
 
@@ -55,8 +55,8 @@ Milk Into Cheese: The Foundations of Natural Cheesemaking Using Traditional Conc
 
 Artisan Cheese Making at Home: Techniques & Recipes for Mastering World-Class Cheeses
 
--   [https://www.amazon.com/Artisan-Cheese-Making-Home-World-Class/dp/1607740087](ttps://www.amazon.com/Artisan-Cheese-Making-Home-World-Class/dp/1607740087)
--   [https://www.thecheesemaker.com/artisan-cheese-making-at-home-by-mary-karlin/](tps://www.thecheesemaker.com/artisan-cheese-making-at-home-by-mary-karlin/)
+-   [https://www.amazon.com/Artisan-Cheese-Making-Home-World-Class/dp/1607740087](https://www.amazon.com/Artisan-Cheese-Making-Home-World-Class/dp/1607740087)
+-   [https://www.thecheesemaker.com/artisan-cheese-making-at-home-by-mary-karlin/](https://www.thecheesemaker.com/artisan-cheese-making-at-home-by-mary-karlin/)
 
 # Dairy and Creamery Books
 
@@ -65,9 +65,9 @@ Artisan Cheese Making at Home: Techniques & Recipes for Mastering World-Class Ch
 The Small Scale Dairy: The Complete Guide to Milk Production for the Home and Market
 
 -   [https://bookstore.acresusa.com/products/the-small-scale-dairy-1](https://bookstore.acresusa.com/products/the-small-scale-dairy-1)
--   [https://hambydairysupply.com/the-small-scale-dairy-the-complete-guide-to-milk-production-for-the-home-and-market/](tps://hambydairysupply.com/the-small-scale-dairy-the-complete-guide-to-milk-production-for-the-home-and-market/)
--   [https://www.amazon.com/Small-Scale-Dairy-Complete-Production-Market/dp/1603585001](ttps://www.amazon.com/Small-Scale-Dairy-Complete-Production-Market/dp/1603585001)
--   [https://www.barnesandnoble.com/w/the-small-scale-dairy-gianaclis-caldwell/1117257270](ttps://www.barnesandnoble.com/w/the-small-scale-dairy-gianaclis-caldwell/1117257270)
+-   [https://hambydairysupply.com/the-small-scale-dairy-the-complete-guide-to-milk-production-for-the-home-and-market/](https://hambydairysupply.com/the-small-scale-dairy-the-complete-guide-to-milk-production-for-the-home-and-market/)
+-   [https://www.amazon.com/Small-Scale-Dairy-Complete-Production-Market/dp/1603585001](https://www.amazon.com/Small-Scale-Dairy-Complete-Production-Market/dp/1603585001)
+-   [https://www.barnesandnoble.com/w/the-small-scale-dairy-gianaclis-caldwell/1117257270](https://www.barnesandnoble.com/w/the-small-scale-dairy-gianaclis-caldwell/1117257270)
 
 Homemade Yogurt & Kefir: 71 Recipes for Making & Using Probiotic-Rich Ferments
 
@@ -79,11 +79,11 @@ The Home Creamery: Make Your Own Fresh Dairy Products; Easy Recipes for Butter, 
 
 -   [https://www.amazon.com/dp/1603420312](https://www.amazon.com/dp/1603420312)
 
-## William Cambell Douglas
+## William Campbell Douglas
 
 The Raw Truth About Milk: Formerly The Milk Book
 
--   [https://www.amazon.com/dp/9962636736](ttps://www.amazon.com/dp/9962636736)
+-   [https://www.amazon.com/dp/9962636736](https://www.amazon.com/dp/9962636736)
 
 # Livestock, Husbandry, Farm and Ranch Books
 
@@ -97,7 +97,7 @@ Holistic Goat Care: A Comprehensive Guide to Raising Healthy Animals, Preventing
 
 Joel has published many books which are relevant to farming, livestock, and dealing with government regulations. See the Polyface Farms store here:
 
--   [https://polyfaceshop.com/BOOKS-&-DVDS-c43252175](ttps://polyfaceshop.com/BOOKS-&-DVDS-c43252175)
+-   [https://polyfaceshop.com/BOOKS-&-DVDS-c43252175](https://polyfaceshop.com/BOOKS-&-DVDS-c43252175)
 
 ## Gabe Brown
 
@@ -113,7 +113,7 @@ Management Intensive Grazing: The Grassroots of Grass Farming
 
 Kick the Hay Habit: A Practical Guide to Year-Around Grazing
 
--   [https://www.amazon.com/dp/0972159703](https://www.amazon.com/dp/0972159703)
+-   [https://www.amazon.com/dp/0972159746](https://www.amazon.com/dp/0972159746)
 
 # Related Books
 

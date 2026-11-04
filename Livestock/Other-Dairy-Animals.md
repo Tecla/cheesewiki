@@ -1,6 +1,6 @@
 ---
 title: Other Dairy Animals
-description: 
+description: Less common dairy animals, such as buffalo, camels, donkeys, horses, moose, deer and yak, and using their milk for cheese.
 published: true
 date: 2026-08-18T17:29:25.503Z
 tags: animals
@@ -10,7 +10,7 @@ dateCreated: 2026-02-09T23:11:53.386Z
 
 # Alternative and Rare Dairy Animals
 
-The big three ruminants that are typically used for dairy are well known: cows, ewes, and goats. Some people are aware that mozzarella and some other cheese are typically made from buffalo milk as well. But there are several other animals that are used for dairy in some parts of the world, if not for direct drinking of milk, they are used for cheese and yogurt.
+The big three ruminants that are typically used for dairy are well known: cows, ewes, and goats. Some people are aware that mozzarella and some other cheeses are typically made from buffalo milk as well. But there are several other animals that are used for dairy in some parts of the world; if not for direct drinking of milk, they are used for cheese and yogurt.
 
 -   Buffalo (as mentioned)
 -   Camels

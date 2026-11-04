@@ -1,6 +1,6 @@
 ---
 title: Strategies for Learning
-description: 
+description: Strategies, websites and courses for learning cheese making, from books and videos to workshops and certification.
 published: true
 date: 2026-08-18T17:33:26.332Z
 tags: cheese, learning, beginners
@@ -24,7 +24,7 @@ Learning to make cheese can be a daunting endeavor, but when taken step by step 
 
 ## Websites
 
-This one! See the [Getting Started](https://cheesewiki.pointvfx.com/#getting-started) section for some information.
+This one! See the [Getting Started](/#getting-started) section for some information.
 
 New England Cheesemaking Company: [Getting Started](https://cheesemaking.com/pages/learn-how-to-make-cheese) tutorials and information
 

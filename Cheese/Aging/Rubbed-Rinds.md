@@ -1,6 +1,6 @@
 ---
 title: Rubbed Rinds
-description: 
+description: Oiling and rubbing cheese rinds during affinage to develop flavor, protect against mold growth and slow moisture loss.
 published: true
 date: 2026-08-16T06:25:42.020Z
 tags: affinage, aging
@@ -15,7 +15,7 @@ Rubbing cheese wheels with oils, particularly olive oil (sometimes combined with
 ## Application
 
 ### Frequency of Oiling
-Initially after salting and drying when the firm but not fully developed rind forms, apply oil regularly (e.g., daily or every other day) for about two weeks to encourage proper development of the outer layer.
+Initially, after salting and drying, once the firm but not fully developed rind has formed, apply oil regularly (e.g., daily or every other day) for about two weeks to encourage proper development of the outer layer.
   
 Afterwards, to maintain the rind continue applying olive oil as needed, typically once per week depending on environmental conditions and cheese type. For example, in less humid environments, you may need to apply oils more frequently if the rinds begin to appear dry.
 
@@ -26,7 +26,7 @@ Gently rub or brush onto rinds using clean hands, cloth, or appropriate tools li
 
 ## Purpose and Advantages
 
-Oiling the rind helps provide protection against microbial growth, creating a protective barrier against some mold development and cheese mites while allowing proper aging processes to occur beneath the surface. Oiled rinds can breathe well, but they help limit moisture loss which allows a cheese to age for a longer time before it dries out too much.
+Oiling the rind helps provide protection against microbial growth, creating a protective barrier against some mold development and cheese mites while allowing proper aging processes to occur beneath the surface. Oiled rinds can breathe well, and they help limit moisture loss which allows a cheese to age for a longer time before it dries out too much.
 
 Oiled rinds add depth of flavor through oil absorption over time. Especially combined with common additions such as smoked pepper or cocoa powder it can add distinctive taste profiles.
 
@@ -34,7 +34,7 @@ Oiled rinds add depth of flavor through oil absorption over time. Especially com
 
 ### Mold Growth
 
-Even though oiled rinds can slow moisture loss, it's still importain to maintain proper temperature and relative humidity levels in aging areas. High relative humidity (greater than 90%) will encourage runaway mold growth even on an oiled rind.
+Even though oiled rinds can slow moisture loss, it's still important to maintain proper temperature and relative humidity levels in aging areas. High relative humidity (greater than 90%) will encourage runaway mold growth even on an oiled rind.
 
 For certain cheeses like traditional Manchego, allow molds to grow naturally then rub them into the rind with oil. Over time, this process can result in distinctive blackened rinds due to continuous oiling with the molds dying or maturing inside the oiled rind.
   
@@ -50,7 +50,7 @@ Check that your relative humidity is high enough in your aging space. For most c
   
 ### Italian Hard Cheeses
 - Asiago styles: common practice includes frequent oiling at first to enhance rind development, allowing internal cheese character to develop over several months of aging.
-- Other hard italian cheeses such as parmesan styles, romano styles and others benefit from oiled rinds.
+- Other hard Italian cheeses such as Parmesan styles, Romano styles and others benefit from oiled rinds.
 
 ### Other Examples
-- Mahon-Menorca: aged cow's and sheep’s milk blend from Menorca. Often rubbed in olive oil during the maturation process, contributing to a unique flavor profile.
+- Mahon-Menorca: aged cow's and sheep's milk blend from Menorca. Often rubbed in olive oil during the maturation process, contributing to a unique flavor profile.

@@ -1,6 +1,6 @@
 ---
-title: Managing Acidity
-description: 
+title: Acidity in Cheese
+description: How to measure and manage acidity in cheese making, from pH targets and titration to slowing down or speeding up acid production.
 published: true
 date: 2026-08-18T17:34:34.502Z
 tags: acidity, ph, sour, sourness, tangy, tanginess, cultures, salting, titration, washing, washed curds, temperature
@@ -30,7 +30,7 @@ Here are some common cheeses that are more acidic/tangy:
 
 ## Importance of Acidity in Cheese
 
-Cheese needs to have a reasonable amount of acidity as part of how the cheese, as a fermented food, is protected against spoilage. More acidity creates an environment where bacteria cannot thrive as well, particularly spoilage bacteria such as those in the clostridia family, and allows the cheese to stabilize and be preserved at refrigerator temperatures for quite a long time. Salt plays a big role here as well, in addition to cultures, but much of the action of the cultures to preserve the cheese occurs during the cheese making session, producing lactic acid from the lactose in the milk. Once enough lactic acid is produced, the cheese cultures slow way down due the acidic environment, impeding not only spoilage bacteria but also impeding themselves.
+Cheese needs to have a reasonable amount of acidity as part of how the cheese, as a fermented food, is protected against spoilage. More acidity creates an environment where bacteria cannot thrive as well, particularly spoilage bacteria such as those in the clostridia family, and allows the cheese to stabilize and be preserved at refrigerator temperatures for quite a long time. Salt plays a big role here as well, in addition to cultures, but much of the action of the cultures to preserve the cheese occurs during the cheese making session, producing lactic acid from the lactose in the milk. Once enough lactic acid is produced, the cheese cultures slow way down due to the acidic environment, impeding not only spoilage bacteria but also impeding themselves.
 
 At some point, if a cheese or its curds are left to acidity at room temperature for a long time, the cheese will reach *terminal acidity* where all of the bacteria have slowed and no more lactic acid can be produced. Usually measures are taken before this point to slow the cultures without making the cheese that sour, such as cooling the cheese and salting it, so it does not become overly sour or tangy but is still well-protected by the acidity already developed.
 
@@ -38,13 +38,13 @@ At some point, if a cheese or its curds are left to acidity at room temperature 
 
 Acidity is something we can directly measure, and get a good idea where cheese or its curds are in terms of development of the proper acid for the style of cheese. The most familiar method of measuring acidity is the pH scale, which is a logarithmic measure of the number of free hydrogen ions relative to the number of hydroxide ions or other negatively-charged ions. Hydrogen ions are positively charged, so the more of them there are the lower the pH. The scale is based on 7.0 being the middle, neither acidic nor basic, where the hydrogen ions are equally balanced with the negative ions. Going down to a pH of 6.0, there are 10 times as many hydrogen ions compared to negative ions, and to a pH of 5.0 there are 10 times more, or 100 times compared with a pH of 7.0.
 
-Raw milk typically has a natural pH of 6.6 to 6.7, meaning it is slighly acidic already. During cheese making, the production of lactic acid will lower the pH to somewhere in the range of 4.8 (a tangy feta) to 5.5 (a sweet washed-curd cheese). Getting any higher than 5.5 can dramatically increase the risk of spoilage bacteria taking hold faster, while going lower than 4.8 produces a cheese so tangy that it becomes unpalatable to many people.
+Raw milk typically has a natural pH of 6.6 to 6.7, meaning it is slightly acidic already. During cheese making, the production of lactic acid will lower the pH to somewhere in the range of 4.8 (a tangy feta) to 5.5 (a sweet washed-curd cheese). Getting any higher than 5.5 can dramatically increase the risk of spoilage bacteria taking hold faster, while going lower than 4.8 produces a cheese so tangy that it becomes unpalatable to many people.
 
 A large part of cheese making techniques are devoted to managing the process of acidifying the milk and curds to the right pH, in the right amount of time.
 
 There are essentially three methods for measuring the acidity of cheese and its curds while it is being made, going from the least accurate to the most accurate:
 
-1.  By taste. The easiest thing to measure is to taste a little bit of the whey in the cheese vat, or the whey dripping out of the cheese during pressing or draining. The human tongue has a decent sensitivity to acidity, in the [Pressing and Turning](https://cheesemaking.com/products/reblochon-recipe-traditional) section of [New England Cheesemaking Company](https://cheesemaking.com/)'s recipe for Reblochon cheese, it gives a guide for what taste corresponds to which acidity level, by pH, that is quite useful:
+1.  By taste. The easiest thing to measure is to taste a little bit of the whey in the cheese vat, or the whey dripping out of the cheese during pressing or draining. The human tongue has a decent sensitivity to acidity. In the [Pressing and Turning](https://cheesemaking.com/products/reblochon-recipe-traditional) section of [New England Cheesemaking Company](https://cheesemaking.com/)'s recipe for Reblochon cheese, they give a guide for what taste corresponds to which acidity level, by pH, that is quite useful:
     -   6.2-6.5: the curds and whey should taste sweet like milk
     -   5.8-5.7: the curds will still have a slight sweetness but nearing neutral
     -   5.5-5.4: they will taste neutral, neither sweet nor acid
@@ -67,7 +67,7 @@ pH is usually not measured continuously, so some recipes will specify checkpoint
 3.  pH of the curds after cutting, stirring, and heating (if applicable). This varies substantially based on the style of the cheese. As an example, many tomme styles benefit from reaching this stage with a pH of 6.3 or so.
 4.  pH of the curds or wheel at the end of pressing. This will be close to the final desired pH, as the cheese will be cooled and salted right after which will halt the pH drop, so it will only drop a little further from this point. As an example, a typical pH here for many cheeses would be somewhere between 5.2 and 5.4.
 
-Once a cheese is cooled and salted, the pH is not usually measured after that, as there is very little that can be done to change the pH at that point. It's important to hit the right acidity during the make steps above, as the trajectory of the cheese is fairly well set once moves past that point.
+Once a cheese is cooled and salted, the pH is not usually measured after that, as there is very little that can be done to change the pH at that point. It's important to hit the right acidity during the make steps above, as the trajectory of the cheese is fairly well set once it moves past that point.
 
 Some cheese styles will see an *increase* in pH during aging, so it comes back up and becomes a sweeter cheese by the time it is consumed. This usually happens as a result of enzyme activity from molds and yeasts, as is typical of blue cheese molds, white/gray surface molds, and morge bacteria for stinky rind cheeses. These will metabolize the lactic acid in the cheese and thus slowly raise the pH as they do so, producing a final cheese that is sweeter than it was at the end of the main cheese making session.
 
@@ -101,8 +101,8 @@ The reverse is also true; if the cheese is acidifying too slowly, moving the tem
 
 ### Curd Washing
 
-Another technique, [washing curds](/Cheese/Washing-Curds), can be used to slow acidification and is often the method of choice for producing a sweeter (higher pH) final cheese. After the curds are cut and have been stirred gently to firm up and release some whey, some of the whey can be removed and replaced with clean unchlorinated water. Removing whey will remove lactose, the fuel for the acidifying cultures, and slow them down. Because some whey has been removed, the final terminal acidity of the cheese is raised because there simply is less lactose available to be turned into lactic acid. If curds are acidifying too quickly while being stirred or heated, replacing some of the whey with water can help.
+Another technique, washing curds, can be used to slow acidification and is often the method of choice for producing a sweeter (higher pH) final cheese. After the curds are cut and have been stirred gently to firm up and release some whey, some of the whey can be removed and replaced with clean unchlorinated water. Removing whey will remove lactose, the fuel for the acidifying cultures, and slow them down. Because some whey has been removed, the terminal acidity of the cheese is lowered because there simply is less lactose available to be turned into lactic acid. If curds are acidifying too quickly while being stirred or heated, replacing some of the whey with water can help.
 
 ### Salting
 
-A larger discussion of salting for controlling acidification is [here](/Cheese/Salting).
+A larger discussion of salting for controlling acidification will appear in the Salting section.

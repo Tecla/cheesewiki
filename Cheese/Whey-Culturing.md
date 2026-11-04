@@ -1,6 +1,6 @@
 ---
 title: Culturing from Whey
-description: 
+description: Using whey backslopping to maintain natural cultures for cheese making, and the risks and rewards of the technique.
 published: true
 date: 2026-08-18T17:34:21.806Z
 tags: cultures, whey
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2026-02-14T07:06:53.311Z
 ---
 
-# Culturing from Whey 
+# Culturing from Whey
 
 In traditional and ancient cheese making, modern culturing techniques such as frozen mother cultures or freeze-dried DVI cultures weren't available. Without realizing what they were, cheese makers had to make use of the natural, endemic LAB cultures that naturally populated the dairy animals' teat canals.
 
-They had to strengthen and feed those cultures to make them strong and dominant to exclude pathogenic cultures. The strong cultures would find a balance among themselves and mutually benefit each other. 
+They had to strengthen and feed those cultures so that they would become dominant and exclude pathogenic cultures. The strong cultures would find a balance among themselves and mutually benefit each other.
 
-Some may have used and developed [clabber](/Creamery/Clabber) to help ensure a cheese batch went well, but many just used the same whey bucket, with a little leftover whey from the previous cheese making session (hopefully only one or two days old), and put the current day's milk into it. The cultured whey would populate the milk, acidify it, and the next cheese making session was rolling forward. 
+Some may have used and developed [clabber](/Creamery/Clabber) to help ensure a cheese batch went well, but many just used the same whey bucket, with a little leftover whey from the previous cheese making session (hopefully only one or two days old), and put the current day's milk into it. The cultured whey would populate the milk, acidify it, and the next cheese making session was rolling forward.
 
-Culturing today's cheese from yesterday's whey is referred to as whey backslopping, and traditional cheese makers discovered this helped them make relatively consistent cheese, so long as they made it regularly. 
+Culturing today's cheese from yesterday's whey is referred to as whey backslopping, and traditional cheese makers discovered this helped them make relatively consistent cheese, so long as they made it regularly.
 
 ## Issues and Warnings
 

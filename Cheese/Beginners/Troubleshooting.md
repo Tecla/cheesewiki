@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting for Beginners
-description: 
+description: Common problems with your first cheeses and how to fix them, from failed curds and blowing defects to temperature and sanitation issues.
 published: true
 date: 2026-08-18T17:33:38.910Z
 tags: beginners, troubleshooting
@@ -12,7 +12,7 @@ dateCreated: 2026-02-13T08:04:31.930Z
 
 Did something go wrong with one of your first cheeses? It's okay, something always goes wrong. That's normal, so don't panic.
 
-## Is My MIlk Bad?
+## Is My Milk Bad?
 
 You always want to start with good, fresh milk, the best quality you can find. If your milk is old, already curdled, growing mold on top, or smells “off” or “bad”, throw it out. Do not make cheese with bad milk, that will not rescue it. Any of those symptoms generally mean the milk already has bacteria and potential pathogens growing in it, and it's not worth the risk.
 
@@ -47,11 +47,11 @@ Late blowing, with horizontal fissure and many irregular gas holes
 Late blowing is characterized by having many gas holes, usually irregular and not very shiny surfaces in the holes, and horizontal fissures sometimes show up. Here are the questions to ask yourself to know if it's late blown, and if it's actually bad:
 
 -   Are there many holes, when you didn't expect there to be? If you didn't add gas-producing cultures like propioni shermanii, then significant holes are not expected.
--   Are the holes round in shape, and shiny inside? This is probably produced by propionic bacteria, which are not bad (they make swiss-style cheese holes). If the holes are instead irregular and not shiny, this is not a good sign.
+-   Are the holes round in shape, and shiny inside? This is probably produced by propionic bacteria, which are not bad (they make Swiss-style cheese holes). If the holes are instead irregular and not shiny, this is not a good sign.
 -   Are there horizontal fissures? Desirable gas producing cultures don't tend to do this, so it's not a good sign.
--   Does the cheese smell of sulfur or of butyric acid (essentially, vomit smell)? This is a sure sign it is blown.
+-   Does the cheese smell of sulfur or of butyric acid (essentially, a vomit smell)? This is a sure sign it is blown.
 
-The usual culprits of late blowing are the clostridia family of bacteria (of which botulism is a member). Forntunately, botulism is pretty much never the cause of late blowing in cheese, but it is instead caused by C. butyrica and C. tyrobutyrica, hence the vomit smell. While it's not pleasant to eat, generally if you accidentally took a bite of the cheese it would not likely harm you, and in fact may be possibly slightly probiotic, but it isn't a particularly pleasant experience.
+The usual culprits of late blowing are the clostridia family of bacteria (of which botulism is a member). Fortunately, botulism is pretty much never the cause of late blowing in cheese, but it is instead caused by C. butyricum and C. tyrobutyricum, hence the vomit smell. While it's not pleasant to eat, generally if you accidentally took a bite of the cheese it would not likely harm you, and in fact may even be slightly probiotic, but it isn't a particularly pleasant experience.
 
 ## Sour Taste
 

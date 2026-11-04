@@ -1,12 +1,14 @@
 ---
 title: Video Channels for Cheese Makers
-description: 
+description: Video channels dedicated to cheese making, from beginner walkthroughs to fermentation, washing and aging techniques.
 published: true
 date: 2026-08-18T17:38:27.908Z
 tags: videos
 editor: markdown
 dateCreated: 2026-01-03T07:38:34.931Z
 ---
+
+# Video Channels for Cheese Makers
 
 The following are some video channels partly or mostly dedicated to cheese making.
 
