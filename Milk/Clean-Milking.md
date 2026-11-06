@@ -171,12 +171,12 @@ High counts in raw milk are often indicative of particular cleanliness or sanita
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
 | Lab Test Count | Naturally Present | Mastitis | Udder Dirty | Equipment Dirty | Cooling Problem |
-| SPC greater than 10,000 | Unlikely | **Possible** | **Possible** | **Possible** | **Possible** |
-| SPC greater than 100,000 | Unlikely | **Possible** | Unlikely | **Likely** | **Likely** |
-| LPC greater than 300 | Unlikely | Unlikely | **Possible** | **Likely** | Unlikely |
-| PIC greater than 3-4x SPC | Unlikely | Unlikely | **Possible** | **Likely** | **Likely** |
+| SPC greater than 10,000 | Unlikely | *Possible* | *Possible* | *Possible* | *Possible* |
+| SPC greater than 100,000 | Unlikely | *Possible* | Unlikely | **Likely** | **Likely** |
+| LPC greater than 300 | Unlikely | Unlikely | *Possible* | **Likely** | Unlikely |
+| PIC greater than 3-4x SPC | Unlikely | Unlikely | *Possible* | **Likely** | **Likely** |
 | SPC greater than PIC | Unlikely | **Assumed** | Unlikely | Unlikely | Unlikely |
-| Coliform greater than 100 | Unlikely | **Possible** | **Possible** | **Possible** | Unlikely |
+| Coliform greater than 100 | Unlikely | *Possible* | *Possible* | *Possible* | Unlikely |
 
 There are other vectors of contamination and cleanliness issues. In the next section, there are visual tests provided which will talk about potential issues with animal feed as well which should be considered.
 
